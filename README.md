@@ -4,7 +4,7 @@
 
 Karim's Portfolio Project is an interactive web application showcasing my software development projects, highlighting my skills in web design and programming. This project was inspired by my journey in learning front-end development and aims to provide a comprehensive overview of my capabilities and the technical challenges I've tackled. Check out the live demo [here](#) and read more about the development process in this [blog post](#).
 
-![Karim's Portfolio](#)  <!-- Replace '#' with the actual link to your screenshot -->
+![Karim's Portfolio](https://i.ibb.co/hfXwvq0/test4.png)  <!-- Replace '#' with the actual link to your screenshot -->
 
 ## Features
 
