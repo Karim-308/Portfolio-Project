@@ -16,7 +16,7 @@ Karim's Portfolio Project is an interactive web application showcasing my softwa
 
 ![Portfolio Website](https://i.ibb.co/QK5GjFS/Intro.png)
 ![Portfolio Website](https://i.ibb.co/6stqhFx/Services.png)
-![Portfolio Website](https://i.ibb.co/mvgN1bQ/Project-card.png)
+![Portfolio Website](https://i.ibb.co/X7XJ6mt/projects-cards.png)
 ![Portfolio Website](https://i.ibb.co/RpbYkhr/Project-details.png)
 
 
