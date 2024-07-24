@@ -10,6 +10,22 @@ Karim's Portfolio Project is an interactive web application showcasing my softwa
 
 [Portfolio Website](https://rad-biscotti-574862.netlify.app/)
 
+## Screenshots
+
+
+
+
+[Portfolio Website](https://i.ibb.co/6stqhFx/Services.png)
+[Portfolio Website](https://i.ibb.co/QK5GjFS/Intro.png)
+[Portfolio Website](https://i.ibb.co/mvgN1bQ/Project-card.png)
+[Portfolio Website](https://i.ibb.co/RpbYkhr/Project-details.png)
+
+
+
+
+
+
+
 ## Features
 
 - Detailed project showcases with descriptions, images, and links to live sites.
