@@ -3,24 +3,24 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="assets/CSS/style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" />
     <title>Karim's Portfolio</title>
 </head>
 <body>
     <header>
-        <a href="#" class="logo">Karim</a>
+        <a href="index.html" class="logo">Karim</a>
         <nav class="navigation">
-            <a href="#About Me">About Me</a>
-            <a href="#Services">Services</a>
-            <a href="#Projects">Projects</a>
-            <a href="#Contact">Contact</a>
+            <a href="index.html#About Me">About Me</a>
+            <a href="index.html#Services">Services</a>
+            <a href="index.html#Projects">Projects</a>
+            <a href="index.html#Contact">Contact</a>
         </nav>
     </header>
 
     <section class="main" id="About Me">
         <div class="main-container">
-            <img src="images/test6.jpg" alt="Profile Image" class="profile-img">
+            <img src="assets/images/test6.jpg" alt="Profile Image" class="profile-img">
             <div class="main-content">
                 <h1>Karim Ibrahim</h1>
                 <h2>Software Developer</h2>
@@ -74,36 +74,37 @@
     <section class="Projects" id="Projects">
         <h2 class="title">Projects</h2>
         <div class="content">
-            <div class="project-card">
-                <img src="images/app-icon.png" alt="Project Image" class="project-img">
+            <a href="project-details.html?id=othello" class="project-card">
+                <img src="assets/images/app-icon.png" alt="Project Image" class="project-img">
                 <h3 class="project-title">Othello (Reversi)</h3>
                 <p class="project-description">AI Game</p>
-            </div>
-            <div class="project-card">
-                <img src="images/Levels Fc.png" alt="Project Image" class="project-img">
+            </a>
+            <a href="project-details.html?id=elcapitano" class="project-card">
+                <img src="assets/images/Levels Fc.png" alt="Project Image" class="project-img">
                 <h3 class="project-title">Elcapitano Reservation Software</h3>
                 <p class="project-description">Handling Reservation for football fields</p>
-            </div>
-            <div class="project-card">
-                <img src="images/hbnb.png" alt="Project Image" class="project-img">
+            </a>
+            <a href="project-details.html?id=hbnb" class="project-card">
+                <img src="assets/images/hbnb.png" alt="Project Image" class="project-img">
                 <h3 class="project-title">HBNB</h3>
-                <p class="project-description">A clone for airBNB website</p>
-            </div>
-            <div class="project-card">
-                <img src="images/processor.png" alt="Project Image" class="project-img">
+                <p class="project-description">A clone for Airbnb website</p>
+            </a>
+            <a href="project-details.html?id=cpu_scheduler" class="project-card">
+                <img src="assets/images/processor.png" alt="Project Image" class="project-img">
                 <h3 class="project-title">CPU Scheduler</h3>
-                <p class="project-description">A visulaisation tool for CPU scheduling algorithms</p>
-            </div>
-            <div class="project-card">
-                <img src="images/diabetes.png" alt="Project Image" class="project-img">
+                <p class="project-description">A visualization tool for CPU scheduling algorithms</p>
+            </a>
+            <a href="project-details.html?id=diabetes_analysis" class="project-card">
+                <img src="assets/images/diabetes.png" alt="Project Image" class="project-img">
                 <h3 class="project-title">Diabetes Data Analysis</h3>
                 <p class="project-description">Analysis of patients data for the detection of diabetes</p>
-            </div>
-            <div class="project-card">
-                <img src="images/unixShell.png" alt="Project Image" class="project-img">
-                <h3 class="project-title">Unix simple shell</h3>
+            </a>
+            <a href="project-details.html?id=unix_shell" class="project-card">
+                <img src="assets/images/unixShell.png" alt="Project Image" class="project-img">
+                <h3 class="project-title">Unix Simple Shell</h3>
                 <p class="project-description">A simple and customized Unix command interpreter</p>
-            </div>
+            </a>
+            
         </div>
     </section>
 
@@ -142,6 +143,6 @@
     </footer>
 
 
-
+    <script src="assets/JS/loadProjects.js"></script>
 </body>
 </html>

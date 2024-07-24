@@ -1,0 +1,83 @@
+#project-details-container {
+    padding-top: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 100px;
+}
+
+.image-container {
+    width: 300px; /* Width of the container */
+    height: 300px; /* Height of the container */
+    overflow: hidden; /* Prevents overflow */
+    display: flex;
+    align-items: center; /* Centers content vertically */
+    justify-content: center; /* Centers content horizontally */
+    background: #ffffff; /* Optional: Background color if the image doesn't fill the container */
+}
+
+.project-img {
+    height: 90%;
+    border-radius: 15px;
+    object-fit: cover;
+}
+
+
+.project-detail {
+    display: flex; /* Use flexbox to align items */
+    justify-content: space-between; /* Space out label and info box */
+    align-items: center; /* Center align items vertically */
+    margin-bottom: 20px;
+    width: 100%; /* Use full container width */
+    max-width: 600px; /* Max width for better aesthetics */
+    margin-left: auto; /* Centering horizontally */
+    margin-right: auto;
+}
+
+label {
+    font-weight: bold;
+    font-weight: 600;
+    flex-basis: 20%; /* Allocate width to label */
+    text-align: right; /* Right align the text of the label */
+   
+}
+
+.project-info {
+    padding: 8px;
+    border: 1px solid #ccc;
+    flex-grow: 1; /* Allows the info box to fill the space */
+    text-align: center;
+}
+
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: red;
+    color: white;
+    text-align: center;
+    border-radius: 5px;
+    text-decoration: none;
+    margin-top: 20px; /* Extra space above the button if needed */
+    width: 100%; /* Full width for button */
+    max-width: 200px; /* Limiting button width for aesthetics */
+    margin-left: auto; /* Centering button */
+    margin-right: auto;
+
+}
+
+
+.project-info{
+    padding: 8px;
+    border: 1px solid #ccc;
+    flex-grow: 1; /* Allows the info box to fill the space */
+    border-radius: 10px;
+    margin: 5px;
+}
+
+.projects_btn{
+    color: #fff;
+    font-size: 1.5em;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}

@@ -1,0 +1,57 @@
+[
+    {
+        "id": "othello",
+        "title": "Othello (Reversi)",
+        "description": "This project is an implementation of the classic board game Othello (also known as Reversi) with an AI player. Othello is a two-player strategy game where the players take turns placing their colored discs on an 8x8 board with the goal of having the majority of discs of their color when the game ends.",
+        "image": "assets/images/app-icon.png",
+        "contributors" : "Karim-308",
+        "githubUrl" : "https://github.com/SemoMoh/Othello-Game-with-AI-player"
+        ,"date" : "Apr 14, 2024"
+
+    },
+    {
+        "id": "elcapitano",
+        "title": "Elcapitano Reservation Software",
+        "description": "Handling Reservation for football fields",
+        "image": "assets/images/Levels Fc.png",
+         "contributors" : "Karim-308",
+         "githubUrl" : "https://github.com/SemoMoh/ElCapitanoProject"
+         ,"date" : "Nov 26, 2023"
+    },
+    {
+        "id": "hbnb",
+        "title": "HBNB",
+        "description": "A web-based application integrating database storage, a back-end API, and front-end interface in a clone of AirBnB.",
+        "image": "assets/images/hbnb.png",
+         "contributors" : "Karim-308",
+        "githubUrl": "https://github.com/Karim-308/AirBnB_clone_v2"
+        ,"date" : "Feb 9, 2024"
+    },
+    {
+        "id": "cpu_scheduler",
+        "title": "CPU Scheduler",
+        "description": "A visualization tool for CPU scheduling algorithms",
+        "image": "assets/images/processor.png",
+         "contributors" : "Karim-308",
+         "githubUrl": "https://github.com/SemoMoh/OS-CPU-Scheduler-Assignment"
+         ,"date" : "Apr 7, 2024"
+    },
+    {
+        "id": "diabetes_analysis",
+        "title": "Diabetes Data Analysis",
+        "description": "Analysis of patients data for the detection of diabetes",
+        "image": "assets/images/diabetes.png",
+         "contributors" : "Karim-308",
+         "githubUrl": "https://github.com/SemoMoh/diabetes-big-data-analysis"
+         ,"date" : "Apr 28, 2024"
+    },
+    {
+        "id": "unix_shell",
+        "title": "Unix Simple Shell",
+        "description": "A simple and customized Unix command interpreter",
+        "image": "assets/images/unixShell.png",
+         "contributors" : "Karim-308",
+         "githubUrl": "https://github.com/Karim-308/simple_shell"
+         ,"date" : "Sep 17, 2023"
+    }
+]

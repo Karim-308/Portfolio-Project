@@ -58,7 +58,7 @@ section{
     display: flex;
     justify-content: center; /* Centers content horizontally */
     align-items: center; /* Centers content vertically */
-    background: url("images/Website background.png");
+    background: url("../images/Website background.png");
     background-position: center;
     background-size: cover;
     height: 100vh; /* Ensures the section takes the full viewport height */
