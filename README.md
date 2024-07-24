@@ -20,7 +20,7 @@ Karim's Portfolio Project is an interactive web application showcasing my softwa
 
 ## Live Demo
 
-Visit the live demo [here](#).  <!-- Replace '#' with the link to your deployed site -->
+Visit the live demo [here](https://www.youtube.com/watch?v=nq60-ScBdeg).  <!-- Replace '#' with the link to your deployed site -->
 
 ## Final Project Blog Article
 
@@ -29,11 +29,3 @@ Read about the development process, challenges faced, and insights gained in the
 ## Authors
 
 - **Karim Ibrahim** - [LinkedIn](#)  <!-- Replace '#' with your LinkedIn link -->
-
-## Installation
-
-Clone the repository and navigate to the project directory:
-
-```bash
-git clone https://github.com/your-username/karims-portfolio.git
-cd karims-portfolio
